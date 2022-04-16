@@ -18,5 +18,7 @@ public class Punto_3 {
     	   i++;
     			   
     	}while (i<= 10);
+    	
+    	leer.close();
     }
 }
