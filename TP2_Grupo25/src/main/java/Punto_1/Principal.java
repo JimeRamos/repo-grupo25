@@ -14,6 +14,7 @@ public class Principal {
 			System.out.println("Ingrese un numero entre 0 y 10");
 			numero = entrada.nextInt();
 		}
+		
 		Factorial unfactor = new Factorial();
 		unfactor.calcula_factorial(numero);
 		
